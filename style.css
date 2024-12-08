@@ -19,7 +19,7 @@ body {
             width: 80%;   
             min-width: 600px;  
             height: 80vh;         
-            text-align: center; 
+            text-align: start; 
             border-radius: 5%;       
 }
 .heading {
