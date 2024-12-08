@@ -16,19 +16,19 @@ body {
 .white {
     background-color: white;                 
             padding: 20px;              
-            width: 80%;   
-            min-width: 600px;  
-            height: 80vh;         
+            width: 70%; 
+            max-width: 1000px;
+            height: fit-content;         
             text-align: start; 
             border-radius: 5%;       
 }
 .heading {
     font-size: xx-large;
     font-family: 'Young Serif', serif;
-    padding: 10px;
+    padding: 5px;
 }
 .white img {
     width: 100%;
-    padding: 10px;
+    padding: 5px;
     border-radius: 35px;
 }
