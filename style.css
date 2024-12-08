@@ -23,6 +23,12 @@ body {
             border-radius: 5%;       
 }
 .heading {
-    font-size: larger;
+    font-size: xx-large;
     font-family: 'Young Serif', serif;
+    padding: 10px;
+}
+.white img {
+    width: 100%;
+    padding: 10px;
+    border-radius: 35px;
 }
