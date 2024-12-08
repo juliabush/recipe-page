@@ -1,10 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
 * {
     border: 0;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
 body {
     background-color: hsl(30, 54%, 90%);
     display: flex;
@@ -24,4 +24,5 @@ body {
 }
 .heading {
     font-size: larger;
+    font-family: 'Young Serif', serif;
 }
