@@ -45,10 +45,10 @@ body {
 }
 .list {
     padding: 5px;
-    margin-top: 10px;
+    margin: 10px;
     list-style-position: inside;
     
-    background-color: hsla(298, 90%, 80%, 0.3);
+    background-color: hsla(298, 90%, 80%, 0.2);
     border-radius: 10px;
 
 }
@@ -60,7 +60,7 @@ body {
 li {
     margin: 4px;
 }
-li::marker {
+.list li::marker {
     color: darkmagenta;
     font-size: 12px;
 }
