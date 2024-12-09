@@ -40,7 +40,7 @@ body {
 }
 #p {
     font-family: 'Outfit', sans-serif; 
-    font-weight: 400;
+    font-weight: 300;
     color: rgb(44, 48, 48);
 }
 .list {
@@ -55,7 +55,8 @@ body {
 .prep {
     margin-bottom: 4px;
     font-size: 18px;
-    color: darkmagenta;
+    color: rgb(116, 20, 116);
+    font-weight: 500;
 }
 li {
     margin: 4px;
@@ -72,8 +73,11 @@ li {
     color: hsl(14, 45%, 36%);
 }
 .stuff{
-    color: hsl(14, 45%, 36%);
     font-size: 20px;
+    color: hsl(14, 45%, 36%);
+    font-family: 'Young Serif';
+    margin: 4px;
+    margin-top: 16px;
 }
 hr {
     border: 0.5px solid rgb(165, 163, 163);
@@ -84,6 +88,9 @@ hr {
 .instru {
     font-size: 20px;
     color: hsl(14, 45%, 36%);
+    font-family: 'Young Serif';
+    margin: 4px;
+    margin-top: 16px;
 }
 .neat li {
     list-style-position: inside;
@@ -94,4 +101,32 @@ hr {
 }
 strong {
     font-weight: 600;
+}
+.healthy {
+    font-size: 20px;
+    color: hsl(14, 45%, 36%);
+    font-family: 'Young Serif';
+    margin: 4px;
+    margin-top: 16px;
+}
+.fun {
+    margin: 10px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.unit {
+    font-weight: 600;
+    color: hsl(14, 45%, 36%);
+    position: absolute;
+    right: 42%;
+}
+.nutri {
+    display: flex;
+    flex-direction: column;
+}
+#lol {
+    margin-top: 15px;
 }
