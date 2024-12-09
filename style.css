@@ -85,3 +85,10 @@ hr {
     font-size: 20px;
     color: hsl(14, 45%, 36%);
 }
+.neat li {
+    list-style-position: inside;
+    margin: 8px;
+}
+.neat li::marker {
+    color: hsl(14, 45%, 36%);
+}
