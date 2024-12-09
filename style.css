@@ -92,3 +92,6 @@ hr {
 .neat li::marker {
     color: hsl(14, 45%, 36%);
 }
+strong {
+    font-weight: 600;
+}
