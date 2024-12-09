@@ -75,3 +75,9 @@ li {
     color: hsl(14, 45%, 36%);
     font-size: 20px;
 }
+hr {
+    border: 0.5px solid rgb(165, 163, 163);
+    opacity: 0.5;
+    margin: 6px;
+    margin-top: 10px;
+}
