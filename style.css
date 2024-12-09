@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
 * {
     border: 0;
     padding: 0;
@@ -129,4 +130,9 @@ strong {
 }
 #lol {
     margin-top: 15px;
+}
+@media (max-width:600px) {
+    Body {
+        background-color: white;
+    }
 }
