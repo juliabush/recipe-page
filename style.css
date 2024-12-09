@@ -46,10 +46,20 @@ body {
     padding: 5px;
     margin-top: 10px;
     list-style-position: inside;
-    background-color: hsla(298, 90%, 80%, 0.4);
+    
+    background-color: hsla(298, 90%, 80%, 0.3);
     border-radius: 10px;
 
 }
 .prep {
     margin-bottom: 4px;
+    font-size: 18px;
+    color: darkmagenta;
+}
+li {
+    margin: 4px;
+}
+li::marker {
+    color: darkmagenta;
+    font-size: 12px;
 }
