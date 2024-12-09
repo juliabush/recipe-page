@@ -21,7 +21,8 @@ body {
             max-width: 1000px;
             height: fit-content;         
             text-align: start; 
-            border-radius: 5%;       
+            border-radius: 5%;
+            margin-top: 40px;       
 }
 .heading {
     font-size: xx-large;
